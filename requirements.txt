@@ -1,5 +1,6 @@
 streamlit
 pandas
+numpy==1.26.4
 yfinance
 plotly
 git+https://github.com/twopirllc/pandas-ta.git@development
